@@ -1,0 +1,36 @@
+
+Qsquid:S1141c"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+?squid:S1148("#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Vsquid:S2259,"?NullPointerException might be thrown as 'conn' is nullable here(Êë‹
+?squid:S1148s"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+/squid:S2095""Close this "Connection".(äœ±
+V
+squid:S106E";Replace this usage of System.out or System.err by a logger.(îÍÁÌıÿÿÿÿ
+Xsquid:UselessImportCheck"4Remove this unused import 'oracle.jdbc.OracleTypes'.(üûÊğ
+Zsquid:S2583["CChange this condition so that it does not always evaluate to "true"(ŒÖÄî
+Zsquid:S2583i"CChange this condition so that it does not always evaluate to "true"(¡ææú
+isquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ù¨°¤8ËØß¥.
+Asquid:S00108e")Either remove or fill this block of code.(”ı¾
+Ysquid:S1854"=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ
+Q
+squid:S106'";Replace this usage of System.out or System.err by a logger.(£„ä«
+isquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(©ª¯õ8„Ã¿óŒ.
+V
+squid:S106r";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ
+Zsquid:S18549"<Remove this useless assignment to local variable "statusId".(¨„ò¾8É°–¶ş-
+›squid:S1160"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(ÛŒĞÃøÿÿÿÿ
+isquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(ÄË‡8ì¼Å¸ş-
+Asquid:S00108l")Either remove or fill this block of code.(”ı¾
+.squid:S2095,"Close this "Statement".(Êë‹
+Osquid:S1854"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡
+`squid:S1854:"=Remove this useless assignment to local variable "statusId1".(â›²Şûÿÿÿÿ8àš·ş-
+Zsquid:S2583b"CChange this condition so that it does not always evaluate to "true"(±”Ìï
+<squid:S1166^"%Either log or rethrow this exception.(”ı¾
+<squid:S1166l"%Either log or rethrow this exception.(”ı¾
+Qsquid:S1141j"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+<squid:S1166e"%Either log or rethrow this exception.(”ı¾
+Qsquid:S1141\"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+[squid:UselessImportCheck"7Remove this unused import 'java.sql.CallableStatement'.(†ÍÉ©
+Isquid:S1313""2Make this IP "192.168.2.241" address configurable.(äœ±
+Asquid:S00108^")Either remove or fill this block of code.(”ı¾
+.squid:S20950"Close this "ResultSet".(íåõ”

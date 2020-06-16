@@ -1,0 +1,35 @@
+
+gsquid:S1192&"IDefine a constant instead of duplicating this literal "topFrame" 4 times.(ğÁ¾”8“”ÉÏö-
+fsquid:S1192/"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªıÿÿÿÿ
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(ŸÊŸı
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™ã€±üÿÿÿÿ8“”ÉÏö-
+Q
+squid:S106F";Replace this usage of System.out or System.err by a logger.(è ¬¾
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+gsquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(¸Ú“ğşÿÿÿÿ
+Lsquid:S1481".Remove this unused "ProductID" local variable.(œñ†í8“”ÉÏö-
+Isquid:S1166š"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8“”ÉÏö-
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¯ÍŠûÿÿÿÿ8“”ÉÏö-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ŸÊŸı8“”ÉÏö-
+Psquid:S1313s"2Make this IP "192.168.2.203" address configurable.(¼óÁ—8“”ÉÏö-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í8“”ÉÏö-
+jsquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(–™Îˆ8“”ÉÏö-
+[squid:S1854"=Remove this useless assignment to local variable "ProductID".(œñ†í8“”ÉÏö-
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÊŸı
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+Psquid:S1197ƒ"8Move the array designator from the variable to the type.(œÏ˜Ï
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÊŸı
+nsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(İöÚ©üÿÿÿÿ8óÔÑö-
+P
+squid:S106R";Replace this usage of System.out or System.err by a logger.(ĞŠšx
+Asquid:S1166q"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+osquid:S00117ƒ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÏ˜Ï
+c
+squid:S134N"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ë“»F
+osquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(½¯İ¼øÿÿÿÿ8“”ÉÏö-
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+X
+squid:S106P";Replace this usage of System.out or System.err by a logger.(°ÆÄ˜8²ß÷ß›.
+X
+squid:S106S";Replace this usage of System.out or System.err by a logger.(’Ò©Î8²ß÷ß›.

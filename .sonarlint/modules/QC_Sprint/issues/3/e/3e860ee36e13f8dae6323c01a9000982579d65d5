@@ -1,0 +1,50 @@
+
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÎÑ©
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+c
+squid:S134Z"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(§ÙŽs
+fsquid:S1132‡"IMove the "ACH" string literal on the left side of this string comparison.(Ûý¶¡øÿÿÿÿ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(Øœ¾¤ÿÿÿÿÿ
+d
+squid:S134c"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Õ¼àø
+Q
+squid:S106";Replace this usage of System.out or System.err by a logger.(²¿¹Ý
+d
+squid:S134m"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(òÿÇ§
+lsquid:S1132U"IMove the "PDL" string literal on the left side of this string comparison.(¼¶¸›úÿÿÿÿ8¬®­—Ž.
+Ksquid:S1481"(Remove this unused "PIN" local variable.(È³”€þÿÿÿÿ8¹±è›Ž.
+isquid:CommentedOutCodeLine|"<This block of commented-out lines of code should be removed.(üìÈÌ8¹±è›Ž.
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(·¢Æõþÿÿÿÿ
+ squid:MethodCyclomaticComplexity"cThe Cyclomatic Complexity of this method "clearDropDown" is 15 which is greater than 10 authorized.(ËÎÑ©
+d
+squid:S134L"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+d
+squid:S134^"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Îü¿ô
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(ËÎÑ©
+Zsquid:S1854"7Remove this useless assignment to local variable "PIN".(È³”€þÿÿÿÿ8¹±è›Ž.
+d
+squid:S134B"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+=squid:S1166¤"%Either log or rethrow this exception.(”ý¾
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+ssquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâýÿÿÿÿ
+fsquid:S1132Z"IMove the "TLP" string literal on the left side of this string comparison.(§ÙŽs8¬®­—Ž.
+nsquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞÑŽæüÿÿÿÿ
+isquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(ìŠ¹8¦œÊ™Ž.
+gsquid:S1132^"IMove the "ILP" string literal on the left side of this string comparison.(Îü¿ô8¬®­—Ž.
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ý‡éÌüÿÿÿÿ
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îþÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È³”€þÿÿÿÿ
+ssquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝøúÇýÿÿÿÿ
+ssquid:S00117S"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹úÈ›þÿÿÿÿ
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(ËÎÑ©
+p
+squid:S134U"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¼¶¸›úÿÿÿÿ8ÓÄè–Ž.
+ssquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ
+fsquid:S11925"JDefine a constant instead of duplicating this literal "mainFrame" 6 times.(ËøÇªýÿÿÿÿ
+gsquid:S1132c"IMove the "LOC" string literal on the left side of this string comparison.(Õ¼àø8¬®­—Ž.
+bsquid:S1132m"KMove the "CHECK" string literal on the left side of this string comparison.(òÿÇ§
+@squid:S1148¥"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÎÑ©

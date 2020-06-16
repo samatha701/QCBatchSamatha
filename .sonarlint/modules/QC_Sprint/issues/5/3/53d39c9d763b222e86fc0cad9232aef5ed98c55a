@@ -1,0 +1,99 @@
+
+R
+squid:S106ý";Replace this usage of System.out or System.err by a logger.(…Ëñæ
+ssquid:S00117e"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢·èÄùÿÿÿÿ
+j
+squid:S134ž"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¹¸’ãûÿÿÿÿ
+ssquid:S00117d"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( üêñúÿÿÿÿ
+ksquid:S00100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëˆ¦„úÿÿÿÿ
+csquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(¼‘ì«
+W
+squid:S106å";Replace this usage of System.out or System.err by a logger.(«§úŒøÿÿÿÿ
+j
+squid:S134¸"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(‰Èûúûÿÿÿÿ
+‘ squid:MethodCyclomaticComplexity'"`The Cyclomatic Complexity of this method "ACHProcess" is 14 which is greater than 10 authorized.(ëˆ¦„úÿÿÿÿ
+@squid:S1444!")Make this "public static st7" field final(©‘¥¥
+csquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(Ðµ¢«
+fsquid:S1192@"JDefine a constant instead of duplicating this literal "mainFrame" 4 times.(ËøÇªýÿÿÿÿ
+csquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(¿òµÊ
+ssquid:S00117c"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿû‚þÿÿÿÿ
+Vsquid:UselessImportCheck"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+?squid:S1444")Make this "public static st3" field final(ÒÏ†f
+bsquid:S1192f"KDefine a constant instead of duplicating this literal "beginMonth" 3 times.(¸žàí
+jsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(ä°âÚ8íÈžå£.
+jsquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(¯ÜØ 8ÕÕ«å£.
+j
+squid:S134Ô"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(‹À„áøÿÿÿÿ
+e
+squid:S134ù"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(³âõÐ
+V
+squid:S106^";Replace this usage of System.out or System.err by a logger.(±Ñ‡Ñýÿÿÿÿ
+R
+squid:S106ƒ";Replace this usage of System.out or System.err by a logger.(ÆÒòÕ
+R
+squid:S106©";Replace this usage of System.out or System.err by a logger.(ÞªÏ
+W
+squid:S106õ";Replace this usage of System.out or System.err by a logger.(òÒäÿÿÿÿÿ
+}"squid:ClassVariableVisibilityCheck"OMake st2 a static final constant or non-public and provide accessors if needed.(íŒä
+R
+squid:S106²";Replace this usage of System.out or System.err by a logger.(ÂÆÙ™
+}"squid:ClassVariableVisibilityCheck#"OMake st9 a static final constant or non-public and provide accessors if needed.(Ûÿ°¡
+u
+squid:S135œ"YReduce the total number of break and continue statements in this loop to use at most one.(¦áÝÿÿÿÿÿ
+Ssquid:S1854š"6Remove this useless assignment to local variable "st".(¡ñðÕùÿÿÿÿ
+gsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(¡ˆÉ÷üÿÿÿÿ
+e
+squid:S134ò"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ì«ç«
+Esquid:S1444"")Make this "public static st8" field final(Œ¥ëÈþÿÿÿÿ
+@squid:S1444#")Make this "public static st9" field final(Ûÿ°¡
+Esquid:S1444")Make this "public static st4" field final(“‹¬öýÿÿÿÿ
+@squid:S1444")Make this "public static st2" field final(íŒä
+j
+squid:S134ê"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ìè´Žûÿÿÿÿ
+~"squid:ClassVariableVisibilityCheck%"PMake path a static final constant or non-public and provide accessors if needed.(Ìµ³š
+ssquid:S00117b"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ú ëýÿÿÿÿ
+}"squid:ClassVariableVisibilityCheck "OMake st6 a static final constant or non-public and provide accessors if needed.(æù³
+}"squid:ClassVariableVisibilityCheck!"OMake st7 a static final constant or non-public and provide accessors if needed.(©‘¥¥
+Q
+squid:S106Ð";Replace this usage of System.out or System.err by a logger.(ê­
+|"squid:ClassVariableVisibilityCheck"OMake st3 a static final constant or non-public and provide accessors if needed.(ÒÏ†f
+e
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(—…ëã
+‚"squid:ClassVariableVisibilityCheck""OMake st8 a static final constant or non-public and provide accessors if needed.(Œ¥ëÈþÿÿÿÿ
+e
+squid:S134¯"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¢óÒš
+bsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(ú¯ Ü
+¯squid:S1160'"’Refactor this method to throw at most one checked exception instead of: java.lang.InterruptedException, java.io.IOException, java.awt.AWTException(ëˆ¦„úÿÿÿÿ
+@squid:S1444")Make this "public static st1" field final(Œ˜
+ssquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëˆ¦„úÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck$"PMake st10 a static final constant or non-public and provide accessors if needed.(‡ñøÂùÿÿÿÿ
+Asquid:S1444%"*Make this "public static path" field final(Ìµ³š
+e
+squid:S134È"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ý Å–
+W
+squid:S106Û";Replace this usage of System.out or System.err by a logger.(Ã©Ý¹úÿÿÿÿ
+W
+squid:S106…";Replace this usage of System.out or System.err by a logger.(ö·Ëôúÿÿÿÿ
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ó÷Óúÿÿÿÿ
+nsquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+@squid:S1444 ")Make this "public static st6" field final(æù³
+hsquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(›»½•øÿÿÿÿ
+csquid:CommentedOutCodeLineÞ"<This block of commented-out lines of code should be removed.(±¯€¤
+ssquid:S00117C"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÿ¯Èüÿÿÿÿ
+R
+squid:S106î";Replace this usage of System.out or System.err by a logger.(òÇóª
+}"squid:ClassVariableVisibilityCheck"OMake st5 a static final constant or non-public and provide accessors if needed.(ÙÌ¦µ
+tsquid:S00117«"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÿ¯Èüÿÿÿÿ
+Tsquid:S1197b"8Move the array designator from the variable to the type.(–Ú ëýÿÿÿÿ
+j
+squid:S134á"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(‚þ—ýþÿÿÿÿ
+5squid:S2095™"Close this "FileReader".(¹®Ùœÿÿÿÿÿ
+@squid:S1444")Make this "public static st5" field final(ÙÌ¦µ
+}"squid:ClassVariableVisibilityCheck"OMake st1 a static final constant or non-public and provide accessors if needed.(Œ˜
+Vsquid:S1854†"9Remove this useless assignment to local variable "lines".(áý“—ÿÿÿÿÿ
+Fsquid:S1444$"*Make this "public static st10" field final(‡ñøÂùÿÿÿÿ
+gsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(ÓÂìÔÿÿÿÿÿ
+W
+squid:S106Ã";Replace this usage of System.out or System.err by a logger.(õ¶û«þÿÿÿÿ
+nsquid:S3776'"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(ëˆ¦„úÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck"OMake st4 a static final constant or non-public and provide accessors if needed.(“‹¬öýÿÿÿÿ

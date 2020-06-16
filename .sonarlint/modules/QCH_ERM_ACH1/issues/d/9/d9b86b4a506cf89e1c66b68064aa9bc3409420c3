@@ -1,0 +1,11 @@
+
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¶Ê·”úÿÿÿÿ8Æ×¥Óì-
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+Isquid:S1172"-Remove this unused method parameter "AppURL".(¶Ê·”úÿÿÿÿ
+isquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(‡ºÏš8‡ ÇÓì-
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öé¹
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ê·”úÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ê·”úÿÿÿÿ
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(È­èšÿÿÿÿÿ8Þ¨ÿêð-
+usquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òœíå8‡ ÇÓì-
+bsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(¶ß§ð

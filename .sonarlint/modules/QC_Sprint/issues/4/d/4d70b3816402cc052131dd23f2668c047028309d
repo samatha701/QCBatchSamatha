@@ -1,0 +1,85 @@
+
+4squid:S2095˜"Close this "Statement".(Ùıôºøÿÿÿÿ
+Zsquid:S2583\"CChange this condition so that it does not always evaluate to "true"(ŒÖÄî
+csquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(²ÈÊ±
+Q
+squid:S106*";Replace this usage of System.out or System.err by a logger.(£„ä«
+R
+squid:S106‘";Replace this usage of System.out or System.err by a logger.(£„ä«
+Ssquid:S1854I"<Remove this useless assignment to local variable "statusId".(¨„ò¾
+=squid:S1166Ë"%Either log or rethrow this exception.(”ı¾
+Zsquid:S1854„"=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ
+Vsquid:S1854˜"9Remove this useless assignment to local variable "stmt2".(Ùıôºøÿÿÿÿ
+gsquid:S2077>"P"schedule_id" is provided externally to the method and not sanitized before use.(¿µûö
+4squid:S2095¥"Close this "ResultSet".(õÎ©‰üÿÿÿÿ
+Usquid:S18541"9Remove this useless assignment to local variable "stmt2".(Ùıôºøÿÿÿÿ
+nsquid:S001173"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áş ½
+Rsquid:S1854¯":Remove this useless assignment to local variable "status".(à–Ò
+[squid:S2583Ï"CChange this condition so that it does not always evaluate to "true"(¡ææú
+W
+squid:S106Ø";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ
+=squid:S1166Ä"%Either log or rethrow this exception.(”ı¾
+Usquid:S1854"9Remove this useless assignment to local variable "stmt2".(îĞ«˜ùÿÿÿÿ
+Rsquid:S1141Ğ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+7squid:S2095Œ"Close this "Connection".(Å‘¥Œ8¶İ‡¹.
+]squid:S22590"?NullPointerException might be thrown as 'conn' is nullable here(Êë‹8¶İ‡¹.
+6squid:S2095%"Close this "Connection".(Å‘¥Œ8¶İ‡¹.
+4squid:S2095Ÿ"Close this "ResultSet".(¯Ä¸Çûÿÿÿÿ
+Q
+squid:S1069";Replace this usage of System.out or System.err by a logger.(ıË³›
+Bsquid:S00108Ä")Either remove or fill this block of code.(”ı¾
+Bsquid:S00108Ò")Either remove or fill this block of code.(”ı¾
+.squid:S20957"Close this "ResultSet".(¿ûñ
+Zsquid:S2583j"CChange this condition so that it does not always evaluate to "true"(¡ææú
+3squid:S20951"Close this "Statement".(Ùıôºøÿÿÿÿ
+=squid:S1166Ò"%Either log or rethrow this exception.(”ı¾
+@squid:S1148’"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+nsquid:S2077Ÿ"Q"schedule_id1" is provided externally to the method and not sanitized before use.(¯Ä¸Çûÿÿÿÿ
+Osquid:S1854"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡
+Jsquid:S1313Œ"2Make this IP "192.168.2.241" address configurable.(Å‘¥Œ
+Rsquid:S1141Â"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141É"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Bsquid:S00108Ë")Either remove or fill this block of code.(”ı¾
+Fsquid:S1481"*Remove this unused "stmt2" local variable.(îĞ«˜ùÿÿÿÿ
+[squid:UselessImportCheck"7Remove this unused import 'java.sql.CallableStatement'.(†ÍÉ©
+–squid:S1160y"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(ØĞÃÕ
+?squid:S1148+"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Fsquid:S1481"*Remove this unused "stmt2" local variable.(îĞ«˜ùÿÿÿÿ
+.squid:S2095>"Close this "ResultSet".(¿µûö
+[squid:S2583Á"CChange this condition so that it does not always evaluate to "true"(ŒÖÄî
+Qsquid:S1141]"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+<squid:S1166m"%Either log or rethrow this exception.(”ı¾
+osquid:S00117›"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÉ—¶
+<squid:S1166_"%Either log or rethrow this exception.(”ı¾
+bsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(²ÈÊ±
+Isquid:S1313%"2Make this IP "192.168.2.241" address configurable.(Å‘¥Œ
+W
+squid:S106»";Replace this usage of System.out or System.err by a logger.(îÍÁÌıÿÿÿÿ
+Osquid:S1854~"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡
+gsquid:S20777"P"schedule_id" is provided externally to the method and not sanitized before use.(¿ûñ
+/squid:S2095—"Close this "Statement".(Êë‹
+<squid:S1166f"%Either log or rethrow this exception.(”ı¾
+Qsquid:S1141k"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+^squid:S2259—"?NullPointerException might be thrown as 'conn' is nullable here(Êë‹8¶İ‡¹.
+V
+squid:S106s";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ
+Asquid:S00108f")Either remove or fill this block of code.(”ı¾
+?squid:S1148t"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+Ysquid:S1854"=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ
+Ysquid:S1854J"=Remove this useless assignment to local variable "statusId1".(â›²Şûÿÿÿÿ
+Asquid:S00108m")Either remove or fill this block of code.(”ı¾
+V
+squid:S106U";Replace this usage of System.out or System.err by a logger.(îÍÁÌıÿÿÿÿ
+.squid:S20950"Close this "Statement".(Êë‹
+Qsquid:S1141d"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Asquid:S00108_")Either remove or fill this block of code.(”ı¾
+Usquid:S1854"9Remove this useless assignment to local variable "stmt2".(îĞ«˜ùÿÿÿÿ
+Zsquid:S2583c"CChange this condition so that it does not always evaluate to "true"(±”Ìï
+Xsquid:S1854°";Remove this useless assignment to local variable "status1".(‘»¾¤øÿÿÿÿ
+R
+squid:S106¡";Replace this usage of System.out or System.err by a logger.(ıË³›
+Xsquid:UselessImportCheck"4Remove this unused import 'oracle.jdbc.OracleTypes'.(üûÊğ
+[squid:S2583È"CChange this condition so that it does not always evaluate to "true"(±”Ìï
+–squid:S1160"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(´æÑæ
+@squid:S1148Ù"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+nsquid:S2077¥"Q"schedule_id1" is provided externally to the method and not sanitized before use.(õÎ©‰üÿÿÿÿ

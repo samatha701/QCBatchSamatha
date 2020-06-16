@@ -1,0 +1,16 @@
+
+i
+squid:S134J"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(óÙ‚Íşÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+Csquid:S1172"-Remove this unused method parameter "AppURL".(ÈĞt
+isquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(»í»8á‚‰œ¨.
+vsquid:S1132J"ZMove the "No records returned." string literal on the left side of this string comparison.(óÙ‚Íşÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈĞt
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈĞt
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿÀŸìûÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( Íû¯øÿÿÿÿ
+Q
+squid:S106H";Replace this usage of System.out or System.err by a logger.(ÈÔ²ê
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ùìàûÿÿÿÿ
+ssquid:S00117G"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÏ©†øÿÿÿÿ
+ssquid:S001174"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò‹ª÷üÿÿÿÿ

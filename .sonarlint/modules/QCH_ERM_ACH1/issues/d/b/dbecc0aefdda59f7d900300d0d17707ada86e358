@@ -1,0 +1,22 @@
+
+Jsquid:UselessParenthesesCheck"!Remove those useless parentheses.(±­ò
+Osquid:S1197H"8Move the array designator from the variable to the type.(œÏ˜Ï
+ssquid:S00117I"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿû‚şÿÿÿÿ
+?squid:S1148p"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+isquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(èÔÂ8¿ŸÿÏì-
+Asquid:S1166n"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+ssquid:S00117J"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( üêñúÿÿÿÿ
+d
+squid:S134<"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+ssquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÿ¯Èüÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Õ›)
+nsquid:S00117H"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÏ˜Ï
+V
+squid:S106E";Replace this usage of System.out or System.err by a logger.(ÌÁËÏüÿÿÿÿ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ
+Nsquid:S1135o"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¯Î¼
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¯Î¼
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117K"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢·èÄùÿÿÿÿ
